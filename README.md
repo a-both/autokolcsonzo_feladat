@@ -32,7 +32,7 @@ Konzol
 ------
 A konzolban megjelenő menü alapján tudod kiválasztani a kívánt műveletet.
 
---- Autókölcsönző Menü ---
+        --- Autókölcsönző Menü ---
         1. Autó bérlése
         2. Bérlés lemondása
         3. Összes bérlés listázása
