@@ -27,15 +27,15 @@ A program futtatásához Python 3 szükséges.
     python autokolcsonzo.py
 
 3. Lépés: Használat
-    A konzolban megjelenő menü alapján tudod kiválasztani a kívánt műveletet.
+A konzolban megjelenő menü alapján tudod kiválasztani a kívánt műveletet.
 
-    --- Autókölcsönző Menü ---
-        1. Autó bérlése
-        2. Bérlés lemondása
-        3. Összes bérlés listázása
-        4. Jelenleg bérelhető autók listázása
-        0. Kilépés
-
+--- Autókölcsönző Menü ---
+    1. Autó bérlése
+    2. Bérlés lemondása
+    3. Összes bérlés listázása
+    4. Jelenleg bérelhető autók listázása
+    0. Kilépés
+        
 Példák
 ------
 - Bérlés: Add meg a rendszámot, kezdődátumot (pl. 2025-06-01) és a napok számát.
