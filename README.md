@@ -28,7 +28,8 @@ A program futtatásához Python 3 szükséges.
 
 3. Lépés: Használat
 
-
+Konzol
+------
 A konzolban megjelenő menü alapján tudod kiválasztani a kívánt műveletet.
 
 --- Autókölcsönző Menü ---
