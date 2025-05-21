@@ -30,10 +30,10 @@ A program futtatásához Python 3 szükséges.
     A konzolban megjelenő menü alapján tudod kiválasztani a kívánt műveletet.
 
     --- Autókölcsönző Menü ---
-    I. Autó bérlése
-    II. Bérlés lemondása
-    III. Összes bérlés listázása
-    IV. Jelenleg bérelhető autók listázása
+    1. Autó bérlése
+    2. Bérlés lemondása
+    3. Összes bérlés listázása
+    4. Jelenleg bérelhető autók listázása
     0. Kilépés
 
 Példák
