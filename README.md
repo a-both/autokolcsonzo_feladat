@@ -27,6 +27,8 @@ A program futtatásához Python 3 szükséges.
     python autokolcsonzo.py
 
 3. Lépés: Használat
+
+
 A konzolban megjelenő menü alapján tudod kiválasztani a kívánt műveletet.
 
 --- Autókölcsönző Menü ---
