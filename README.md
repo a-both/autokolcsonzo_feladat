@@ -33,11 +33,11 @@ Konzol
 A konzolban megjelenő menü alapján tudod kiválasztani a kívánt műveletet.
 
 --- Autókölcsönző Menü ---
-    1. Autó bérlése
-    2. Bérlés lemondása
-    3. Összes bérlés listázása
-    4. Jelenleg bérelhető autók listázása
-    0. Kilépés
+        1. Autó bérlése
+        2. Bérlés lemondása
+        3. Összes bérlés listázása
+        4. Jelenleg bérelhető autók listázása
+        0. Kilépés
         
 Példák
 ------
