@@ -21,7 +21,7 @@ Futtatás
 --------
 A program futtatásához Python 3 szükséges.
 
-1. Lépés: Klónozd a repót vagy másold le a fájlokat.
+1. Lépés: Klónozd a repót vagy másold le a kódot.
 
 2. Lépés: Futtasd a programot terminálból vagy IDLE-ből:
     python autokolcsonzo.py
@@ -30,11 +30,11 @@ A program futtatásához Python 3 szükséges.
     A konzolban megjelenő menü alapján tudod kiválasztani a kívánt műveletet.
 
     --- Autókölcsönző Menü ---
-    1. Autó bérlése
-    2. Bérlés lemondása
-    3. Összes bérlés listázása
-    4. Jelenleg bérelhető autók listázása
-    0. Kilépés
+        1. Autó bérlése
+        2. Bérlés lemondása
+        3. Összes bérlés listázása
+        4. Jelenleg bérelhető autók listázása
+        0. Kilépés
 
 Példák
 ------
