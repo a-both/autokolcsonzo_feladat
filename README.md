@@ -1,6 +1,6 @@
 # **Autókölcsönző Rendszer**
 
-Ez a projekt egy egyszerű parancssori alapú autókölcsönző rendszert valósít meg Pythonban. Lehetőséget biztosít autók bérlésére egy adott időszakra, meglévő bérlések lemondására, és az aktuális bérlések áttekintésére. A rendszer induláskor előre betöltött adatokkal (autók és bérlések) indul, így azonnal kipróbálható.
+Ez a projekt egy egyszerű parancssori alapú autókölcsönző rendszert valósít meg Pythonban. Lehetőséget biztosít autók bérlésére egy adott időszakra, meglévő bérlések lemondására, és az aktuális bérlések áttekintésére. A rendszer induláskor előre betöltött adatokkal indul, így azonnal kipróbálható.
 
 ---
 
